@@ -1,4 +1,4 @@
-# TechTalk sur logiciel libre Thales Montbonnot
+# TechTalk sur logiciel libre 2015
 
 # format de présentation
 
